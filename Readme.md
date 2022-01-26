@@ -1,5 +1,3 @@
-Keshav Krishna 2019CSB1224
-
 README
 
 HOW TO PLAY
